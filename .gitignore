@@ -1,0 +1,4 @@
+*.o
+parse.c
+y.output
+see
